@@ -2,7 +2,7 @@
 
 Backend project for lab inventory management system. 
 
-**Really just a naive first few steps in Go, so don't expect too much - I am learning as I go.**
+**Really just naive first few steps in Go, so don't expect too much - I am learning as I _go_ (pun intended).**
 
 ## Installation
 
