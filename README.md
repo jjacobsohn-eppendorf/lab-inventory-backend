@@ -1,5 +1,8 @@
 # Lab Inventory Backend
 
+> [!WARNING]
+> This project has been replaced by [a newer version](https://github.com/jjacobsohn-eppendorf/lit-lab-inventory-tracker), but is being kept for reference.
+
 Backend project for lab inventory management system. 
 
 **Really just naive first few steps in Go, so don't expect too much - I am learning as I _go_ (pun intended).**
